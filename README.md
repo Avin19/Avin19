@@ -7,6 +7,6 @@
 - 💬 Ask me about Python Kinter, Arduino , Blender , App Development 
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like otaku
+- ⚡ Fun fact: I am otaku
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=Avin19&&show_icons=true&title_color=66ff33&icon_color=bb2ade&text_color=daf7dc&bg_color=191919">
