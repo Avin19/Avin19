@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Unity 
 - 🌱 I’m currently learning Futter
-- 🤔 I’m looking for help with UNity 3D Game development
+- 🤔 I’m looking for help with Unity 3D Game development
 - 💬 Ask me about Python Kinter, Arduino , LEGO EV3 , 3D designing , Blender , 
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
