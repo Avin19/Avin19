@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Unity 
 - 🌱 I’m currently learning Futter
 - 🤔 I’m looking for help with Unity 3D Game development
-- 💬 Ask me about Python Kinter, Arduino , LEGO EV3 , 3D designing , Blender , 
+- 💬 Ask me about Python Kinter, Arduino , Blender , App Development on MIT App inventor 
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like otaku
