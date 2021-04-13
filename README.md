@@ -1,10 +1,10 @@
 ### Hello , I am Avinash Yadav 👋
 
 
-- 🔭 I’m currently working on Unity 
-- 🌱 I’m currently learning Futter
-- 🤔 I’m looking for help with Unity 3D Game development
-- 💬 Ask me about Python Kinter, Arduino , Blender , App Development 
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Machine Learning 
+- 🤔 I’m looking for help with Machine Learning 
+- 💬 Ask me about  Arduino , Blender , App Development 
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am otaku
