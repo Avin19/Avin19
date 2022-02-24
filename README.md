@@ -1,11 +1,11 @@
 ### Hello , I am Avinash Yadav 👋
 
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Machine Learning 
-- 🤔 I’m looking for help with Machine Learning 
+- 🔭 I’m currently working on C#
+- 🌱 I’m currently learning Photon
+- 🤔 I’m looking for help with Procedural Generation 
 - 💬 Ask me about  Arduino , Blender , App Development 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am otaku
 -->
