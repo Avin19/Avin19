@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on C#
 - 🌱 I’m currently learning Photon
 - 🤔 I’m looking for help with Procedural Generation 
-- 💬 Ask me about  Arduino , Blender , App Development 
+- 💬 Ask me about Unity
 - 📫 How to reach me: ... 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am otaku
