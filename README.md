@@ -1,8 +1,8 @@
-### Hello , I am Avinash Yadav 👋
+### Hello , I am Avinash Yadav Unity Developer👋
 
 
 - 🔭 I’m currently working on C# ,Python 
-- 🌱 I’m currently learning Mirror Networking , AR /VR 
+- 🌱 I’m currently learning Mirror Networking , AR /VR ,DOTS ,ECS
 - 🤔 I’m looking for help with Procedural Generation 
 - 💬 Ask me about Unity , 3d - FDM /SLA  , MicroController - Arduino , Esp32 , ESP8266  , Blender 
 
