@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on C# , Python ,Flutter
-- 🌱 I’m currently learning Mirror Networking, AR /VR,DOTS,ECS,VFX , ShaderGraph 
+- 🌱 I’m currently learning Mirror Networking, AR /VR, DOTS,ECS,VFX, ShaderGraph 
 - 🤔 I’m looking for help with Netcore
 - 💬 Ask me about Unity , 3d - FDM /SLA  , MicroController - Arduino , Esp32 , ESP8266  , Blender 
 
